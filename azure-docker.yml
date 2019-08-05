@@ -32,10 +32,3 @@ runcmd:
 system_info:
     default_user:
         groups: [docker]
-
-# Restart the system
-# power_state:
-#   delay: "now"
-#   mode: reboot
-#   message: First reboot
-#   condition: True
